@@ -1,0 +1,29 @@
+body { 	
+	background: url("images/grey2_2x2.jpg");
+	background-repeat: repeat;
+	background-attachment: fixed;
+}
+
+td,p,a,center,div {
+	font-family: Trebuchet MS, arial, tahoma, verdana; 
+	font-size: 11px; 
+	line-height: 20px;
+};
+
+b {
+	font-family: Trebuchet MS, arial, tahoma, verdana; 
+	font-size: 11px;
+}
+
+a {
+	color: #000000; 
+	text-decoration: none; 
+	font-weight:bold; 
+	font-family: Trebuchet MS, arial, tahoma, verdana; 
+	font-size: 10px;
+}
+
+a:hover {
+	color: #c0c0c0;
+	border-bottom: 1 dashed #000000;
+}

@@ -1,0 +1,47 @@
+body { 	
+	background: url("images/greybg.jpg");
+	background-repeat: repeat;
+	background-attachment: fixed;
+}
+
+td,p,a,center,div {
+	font-family: Trebuchet MS, arial, tahoma, verdana; 
+	font-size: 11px; 
+	line-height: 21px;
+};
+
+b {
+	font-family: Trebuchet MS, arial, tahoma, verdana; 
+	font-size: 11px;
+}
+
+a {
+	color: #000000; 
+	text-decoration: none; 
+	font-weight:bold; 
+	font-family: Trebuchet MS, arial, tahoma, verdana; 
+	font-size: 10px;
+}
+
+a:hover {
+	color: #c0c0c0;
+	border-bottom: 1 dashed #000000;
+}
+
+div#toptop {
+	background-color:#ffffff;
+	border-top:4px solid #7F7F7F;
+	height:22px;
+}
+
+div#top {
+	background-color:#FFE7E8;
+	border-top:14px solid #ffffff;
+	height:22px;
+}
+
+/*
+light green: #EAF7D3
+light blue: #B7DBFF
+very light blue: #E3F1FF
+*/
